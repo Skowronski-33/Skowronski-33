@@ -3,25 +3,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=667EEA&center=true&width=435&lines=Desenvolvedor+Front-end;Estudante+de+ADS;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 🚀 Sobre mim
-
+<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Desenvolvedor Front-end em formação
 🌱 Aprendendo JavaScript, React e Node.js
 🎯 Focado em criar soluções práticas e funcionais
 📊 Interessado em desenvolvimento web e UX/UI
-
+<br>
 🛠️ Tecnologias & Ferramentas
 <div align="center">
 💻 Linguagens
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
+  <br>
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+<br>
+  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+  <br>
 🎨 Design & Layout
 <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+  <br>
 <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
+  <br>
 🔧 Ferramentas
 <img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>
+  <br>
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
+  <br>
 <img src=https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white>
 📚 Estudando
 <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
