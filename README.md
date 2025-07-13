@@ -4,47 +4,36 @@
 </div>
 🚀 Sobre mim
 <br>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Desenvolvedor Front-end em formação
-🌱 Aprendendo JavaScript, React e Node.js
-🎯 Focado em criar soluções práticas e funcionais
-📊 Interessado em desenvolvimento web e UX/UI
+🎓 Estudante de Análise e Desenvolvimento de Sistemas</br>
+💻 Desenvolvedor Front-end em formação</br>
+🌱 Aprendendo JavaScript, React e Node.js</br>
+🎯 Focado em criar soluções práticas e funcionais</br>
+📊 Interessado em desenvolvimento web e UX/UI</br>
 <br>
 🛠️ Tecnologias & Ferramentas
 <div align="center">
 💻 Linguagens
-<img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
-
-<img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
-
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-
+<img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></br>
+<img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white></br>
+<img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black></br>
 🎨 Design & Layout
-<img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
-
-<img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
-
+<img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black></br>
+<img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white></br>
 🔧 Ferramentas
-<img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>
-
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white>
-
-<img src=https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white>
+<img src=https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>v
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></br>
+<img src=https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white></br>
 📚 Estudando
-<img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-
-<img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
-
-<img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
+<img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB></br>
+<img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white></br>
+<img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white></br>
 
 </div>
 📊 Estatísticas GitHub
 <div align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=Skowronski-33&show_icons=true&theme=radical&hide_border=true>
-  
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Skowronski-33&layout=compact&theme=radical&hide_border=true>
-
-<img src=https://github-readme-streak-stats.herokuapp.com/?user=Skowronski-33&theme=radical&hide_border=true>
+<img src=https://github-readme-stats.vercel.app/api?username=Skowronski-33&show_icons=true&theme=radical&hide_border=true></br>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Skowronski-33&layout=compact&theme=radical&hide_border=true></br>
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=Skowronski-33&theme=radical&hide_border=true></br>
 </div>
 
 🎯 Projetos em Destaque
