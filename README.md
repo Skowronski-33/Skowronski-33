@@ -1,9 +1,5 @@
 # Pedro Henrique Skowronski
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=667EEA&center=true&width=435&lines=Desenvolvedor+Front-end;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
-</div>
-
 ## Sobre mim
 
 Profissional com formação em Direito e atualmente cursando Análise e Desenvolvimento de Sistemas. Perfil dinâmico e proativo, com forte disposição para trabalho em equipe e aprendizado contínuo. Busco combinar conhecimentos jurídicos com habilidades técnicas para desenvolver soluções inovadoras.
@@ -24,13 +20,17 @@ Profissional com formação em Direito e atualmente cursando Análise e Desenvol
 
 ## Habilidades Técnicas
 
-### Linguagens de Programação
+### Back-end & Web Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
+### Mobile Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ### Front-end & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -39,40 +39,38 @@ Profissional com formação em Direito e atualmente cursando Análise e Desenvol
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### Banco de Dados
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## Experiência Profissional
+## Projetos em andamento
 
-### Escrevente Registro de Imóveis | Carazinho, RS
-**Abril 2023 - Atual**  
-- Análise documental e registro de imóveis
-- Responsável pelo suporte em informática
-- Gerenciamento de arquivos físicos e digitais
-- Emissão de certidões oficiais
-- Otimização de processos através de soluções tecnológicas
+### 🏋️ [Iron Powerlifting](https://github.com/Skowronski-33/iron-powerlifting)
+**Plataforma web dedicada ao powerlifting**  
+*"Forje sua força. Registre seu progresso. Domine seus limites."*
 
-### Estágio Delegacia de Polícia Civil | Carazinho, RS
-**Agosto 2021 - Abril 2023**  
-- Utilização do sistema E-proc para gestão de inquéritos
-- Análise de imagens de monitoramento e produção de relatórios
-- Organização e arquivamento de documentos digitais
+Aplicação full-stack focada nos três movimentos fundamentais do powerlifting: Agachamento, Supino e Levantamento Terra.
 
-## Projetos em Destaque
+**Tecnologias:** PHP 8.1+, Laravel, MySQL, JavaScript, CSS3, HTML5  
+**Principais funcionalidades:**
+- Dashboard principal com overview de treinos
+- Sistema de registro e histórico de PRs
+- Calculadora de 1RM (One Rep Max)
+- Interface dark mode
+- Design system completo e responsivo
+- Autenticação Laravel segura
 
-### [Calculadora de Gastos Pessoais](https://skowronski-33.github.io/calculadora-gastos)
-Aplicação web para controle financeiro com relatórios visuais  
-**Tecnologias:** HTML5, CSS3, JavaScript, LocalStorage  
-**Funcionalidades:**
-- Categorização de gastos
-- Geração de relatórios gráficos
-- Persistência de dados local
-- Design responsivo
+**Características técnicas:**
+- Arquitetura MVC com Laravel
+- Design minimalista (tipografia Inter + JetBrains Mono)
+- Animações CSS sutis para melhor UX
+- Sistema de tracking preciso de progresso
+
 
 ## Estatísticas GitHub
 
@@ -86,7 +84,7 @@ Aplicação web para controle financeiro com relatórios visuais
 ## Idiomas
 
 - **Português:** Nativo
-- **Inglês:** Intermediário Avançado
+- **Inglês:** Avançado
 - **Italiano:** Intermediário
 
 ## Contato
